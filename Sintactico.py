@@ -70,7 +70,7 @@ def prueba_sintactica(data):
             if gram:
                 resultado_gramatica.append(str(gram))
         else:
-            print("")
+            print()
     return resultado_gramatica
 
 try:
